@@ -49,12 +49,6 @@ function SkillList() {
         />
       ))}
     </div>
-    // <div className="skill-list">
-    //   <Skill skill="HTML" emoji="💪🏻" bgc="#f59812" />
-    //   <Skill skill="CSS" emoji="💪🏻" bgc="#4285f4" />
-    //   <Skill skill="Javascript" emoji="😁" bgc="#a7a718" />
-    //   <Skill skill="React" emoji="😎" bgc="#d34fd3" />
-    // </div>
   );
 }
 

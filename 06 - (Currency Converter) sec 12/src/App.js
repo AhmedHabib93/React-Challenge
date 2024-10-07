@@ -1,5 +1,3 @@
-// `https://api.frankfurter.app/latest?amount=100&from=EUR&to=USD`
-
 import { useEffect, useState } from "react";
 
 export default function App() {
